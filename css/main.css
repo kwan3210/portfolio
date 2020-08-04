@@ -10,6 +10,9 @@ p {
 a:hover {
   color: #1d2088; }
 
+   a:link { color: #1d2088; text-decoration: none;}
+ a:hover { color: #1d2088; text-decoration: underline;}
+
   hr {
   margin-top: 5.3rfontem;
   margin-bottom: 5rem;
